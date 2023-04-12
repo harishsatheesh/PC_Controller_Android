@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="button">Space</string>
+    <string name="closeSocket">Close Socket</string>
+</resources>
